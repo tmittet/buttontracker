@@ -17,7 +17,6 @@
 /* Written by Thomas Mittet code@lookout.no January 2010.               */
 /************************************************************************/
 
-#include "WProgram.h"
 #include "ButtonTracker.h"
 
 ButtonTracker::ButtonTracker(uint16_t debounceTimeoutMs, uint16_t clickTimeoutMs, uint8_t buttonPin)

@@ -20,7 +20,7 @@
 #ifndef ButtonTracker_h
 #define ButtonTracker_h
 
-#include <inttypes.h>
+#include "Arduino.h"
 
 class ButtonTracker
 {
